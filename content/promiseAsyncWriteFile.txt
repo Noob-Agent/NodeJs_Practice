@@ -1,0 +1,1 @@
+This is the file where we merge the first and second file. Hello this is the first text file. Hello this is the second text file.
